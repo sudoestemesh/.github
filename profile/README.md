@@ -16,6 +16,12 @@ Una red descentralizada, libre y comunitaria — sin internet, sin infraestructu
 
 - 📍 **Zona de cobertura:** Bahía Blanca, Sierra de la Ventana, Coronel Dorrego, Monte Hermoso, Tres Arroyos y alrededores.
 - 📍 **Mapa en vivo:** https://raspberrypi-3.tail03b1df.ts.net/
+- <p align="center">
+  <a href="https://raspberrypi-3.tail03b1df.ts.net/" target="_blank">
+    <img src="https://img.shields.io/badge/📍_Mapa-en_vivo-blue?style=for-the-badge">
+  </a>
+</p>
+📍 **Mapa en vivo:** [Ver mapa](https://raspberrypi-3.tail03b1df.ts.net/)
 - 📻 **Canal público:** MediumFast — Región ANZ
 - ⚡ **Alimentación:** Energía solar
 - 🔓 **Acceso:** Libre y gratuito para toda la comunidad
