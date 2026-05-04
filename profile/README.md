@@ -1,0 +1,37 @@
+# 👋 Bienvenido/a a Sudoeste Mesh
+
+Somos una red pública de radios **Meshtastic** alimentadas con **energía solar**, ubicada en **Bahía Blanca y la zona** (Argentina).
+
+Una red descentralizada, libre y comunitaria — sin internet, sin infraestructura centralizada, sin costo.
+
+---
+
+## 📡 ¿Qué es Meshtastic?
+
+[Meshtastic](https://meshtastic.org) es un proyecto de código abierto que permite crear redes de comunicación de largo alcance usando radios LoRa de bajo consumo. Los mensajes saltan de nodo en nodo formando una **malla (mesh)** que puede cubrir ciudades enteras.
+
+---
+
+## ☀️ Nuestra red
+
+- 📍 **Zona de cobertura:** Bahía Blanca, Sierra de la Ventana, Coronel Dorrego, Monte Hermoso, Tres Arroyos y alrededores.
+- 📻 **Canal público:** MediumFast — Región ANZ
+- ⚡ **Alimentación:** Energía solar
+- 🔓 **Acceso:** Libre y gratuito para toda la comunidad
+
+---
+
+## 🚀 ¿Cómo sumarte?
+
+1. Conseguí un dispositivo compatible con Meshtastic (TTGO, Heltec, RAK, etc.)
+2. Flasheá el firmware desde [meshtastic.org](https://meshtastic.org)
+3. Configurá el canal **MediumFast — Región ANZ**
+4. ¡Listo! Ya sos parte de la red
+
+---
+
+## 🌐 Seguinos
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40sudoestemesh-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sudoestemesh/)
+
+---
