@@ -1,6 +1,6 @@
 # 👋 Bienvenido/a a Sudoeste Mesh
 
-Somos una red pública de radios **Meshtastic** alimentadas con **energía solar**, ubicada en **Bahía Blanca y la zona** (Argentina).
+Somos una red pública de radios **Meshtastic** alimentadas con **energía solar**, ubicada en **Sudoeste de la provincia de Buenos Aires** (Argentina).
 
 Una red descentralizada, libre y comunitaria — sin internet, sin infraestructura centralizada, sin costo.
 
