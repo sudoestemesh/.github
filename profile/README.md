@@ -4,6 +4,8 @@ Somos una red pública de radios **Meshtastic** alimentadas con **energía solar
 
 Una red descentralizada, libre y comunitaria — sin internet, sin infraestructura centralizada, sin costo.
 
+> ⚠️ Esta red funciona sin internet y sin electricidad de red — ideal para emergencias y comunicaciones en zonas rurales.
+
 ---
 
 ## 📡 ¿Qué es Meshtastic?
