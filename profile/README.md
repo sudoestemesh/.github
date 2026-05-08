@@ -17,7 +17,7 @@ Una red descentralizada, libre y comunitaria — sin internet, sin infraestructu
 ## ☀️ Nuestra red
 
 - 📍 **Zona de cobertura:** Bahía Blanca, Sierra de la Ventana, Coronel Dorrego, Monte Hermoso, Tres Arroyos y alrededores.
-- 📍 **Mapa en vivo:** https://raspberrypi-3.tail03b1df.ts.net/
+- 📍 **Mapa en vivo:** https://somesh.com.ar/
 - 📻 **Canal público:** MediumFast — Región ANZ
 - ⚡ **Alimentación:** Energía solar
 - 🔓 **Acceso:** Libre y gratuito para toda la comunidad
@@ -28,6 +28,7 @@ Una red descentralizada, libre y comunitaria — sin internet, sin infraestructu
 
 La red ofrece servicios adicionales que corren sobre la infraestructura Meshtastic:
 
+- 💬 **Alertas Servicio Meteorológico Nacional** — Canal de alertas para el sudoeste de la Provincia de Buenos Aires.  
 - 💬 **WhatsApp Gateway** — Envío y recepción de mensajes de WhatsApp desde la red mesh, sin necesidad de conexión directa a internet en el nodo cliente.
 - 📊 **BBS (Bulletin Board System)** — Servicio de estado de nodos: uptime, señal, batería y métricas básicas de la red.
 - 🌿 **Datos ambientales** — Recolección y difusión de sensores de temperatura, humedad, presión y otros parámetros ambientales desde nodos equipados.
